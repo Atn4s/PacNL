@@ -1,6 +1,9 @@
 # Trabalho NetLogo: Extensão do modelo Pac-Man
+<div align="center">
+   <img src="https://github.com/Atn4s/PacNL/blob/main/Pac-Man.png?raw=true">
+</div>
 
-<img src="https://github.com/Atn4s/PacNL/blob/main/Pac-Man.png?raw=true">
+- Trabalho realizado para a matéria de Sistemas Multiagentes utilizando a ferramenta NetLogo.
 
 ## 🎮 Sobre o Projeto
 
