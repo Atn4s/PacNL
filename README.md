@@ -1,5 +1,7 @@
 # Trabalho NetLogo: Extensão do modelo Pac-Man
 
+<img src="https://github.com/Atn4s/PacNL/blob/main/Pac-Man.png?raw=true">
+
 ## 🎮 Sobre o Projeto
 
 Uma implementação do clássico Pacman em NetLogo com um sistema de **Auto-Play**, expandindo o modelo original com modo de jogo automatico, personalização visual e opção de selecionar múltiplos mapas.
@@ -41,6 +43,7 @@ A inteligência artificial segue uma **hierarquia de prioridades**:
 
 ## 📁 Estrutura do Projeto
 - PacNL/
+- ├── Pac-Man.png # Imagem original da pasta do NetLogo do Pac-Man
 - ├── PacMan_Extendido.nlogox # Modelo principal
 - ├── pacmap1.csv # Mapa 1
 - ├── pacmap2.csv # Mapa 2
